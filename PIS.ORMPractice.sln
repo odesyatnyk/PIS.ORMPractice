@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.ORMPractice.CodeFirst", "PIS.ORMPractice.CodeFirst\PIS.ORMPractice.CodeFirst.csproj", "{F35E85D3-35EF-4712-96D6-44642AEDF4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS.ORMPractice.DatabaseFirst", "PIS.ORMPractice.DatabaseFirst\PIS.ORMPractice.DatabaseFirst.csproj", "{CF0F1D31-1D23-4C0D-BD29-8F5E8B7F6E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35E85D3-35EF-4712-96D6-44642AEDF4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35E85D3-35EF-4712-96D6-44642AEDF4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35E85D3-35EF-4712-96D6-44642AEDF4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35E85D3-35EF-4712-96D6-44642AEDF4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0F1D31-1D23-4C0D-BD29-8F5E8B7F6E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0F1D31-1D23-4C0D-BD29-8F5E8B7F6E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0F1D31-1D23-4C0D-BD29-8F5E8B7F6E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0F1D31-1D23-4C0D-BD29-8F5E8B7F6E81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79619784-D9B7-4E70-82DE-338B5A401263}
+	EndGlobalSection
+EndGlobal
